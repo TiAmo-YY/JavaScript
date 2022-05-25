@@ -1,2 +1,2 @@
 # JavaScript
-js文件仓库
+JavaScript文件仓库
